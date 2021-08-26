@@ -1,0 +1,6 @@
+con npm init instalo package.js
+con npm install express instalo express solamente
+npm install -D nodemon instalo solamente desde la parte de desarrollo
+
+con mkdir "nombre" creo una carpeta
+con touch "ruta/nombre.js" creo un archivo
