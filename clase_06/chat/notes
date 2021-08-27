@@ -1,6 +1,0 @@
-Instalar repositorio con todo ya instalado:
-1) git clone https://github.com/dfalzate/plantillaServidor NOMBRE_DE_LA_CARPETA
-2) Me paro dentro de la carpeta y hago npm i
-
-para crear una app de react
-npx create-react-app
